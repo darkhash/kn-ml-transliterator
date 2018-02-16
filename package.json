@@ -1,0 +1,16 @@
+{
+  "title": "kn-ml-trasliterator",
+  "name": "kn-ml-transliterate",
+  "version": "0.0.1",
+  "description": "transliterator",
+  "main": "index.js",
+  "author": "Hash Singularity",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
